@@ -9,3 +9,5 @@ you can use that as startup to your next  app if you will work with videos and m
 + Features
     + Sharing videos
     + try get more likes on your videos 😍👌 with like and dislike feature.
+
+## Tutorial: https://www.youtube.com/watch?v=Xppfd8vkLAs
